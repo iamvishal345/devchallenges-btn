@@ -6,7 +6,7 @@
 
 <div align="center">
   <h3>
-    <a href="dev-challenges-btn.netlify.app">
+    <a href="https://dev-challenges-btn.netlify.app/">
       Demo
     </a>
     <span> | </span>
@@ -69,7 +69,7 @@ $ yarn dev
 - [Node.js](https://nodejs.org/)
 - [SvelteKit](https://kit.svelte.dev/)
 - [Vite](https://vitejs.dev/)
-- [SCSS][https://sass-lang.com/]
+- [SCSS](https://sass-lang.com/)
 - [Google Icons](https://fonts.google.com/icons)
 
 ## Contact
