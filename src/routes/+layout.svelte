@@ -28,7 +28,6 @@
 			label: 'Grid'
 		}
 	];
-	console.log($page);
 </script>
 
 <main>
@@ -53,7 +52,7 @@
 	:global(body) {
 		margin: 0;
 		padding: 0;
-		font-family: "Poppins", sans-serif;
+		font-family: 'Poppins', sans-serif;
 	}
 	nav {
 		background-color: #fafbfd;
