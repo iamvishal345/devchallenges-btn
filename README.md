@@ -1,4 +1,4 @@
-<h1 align="center">Button component</h1>
+<h1 align="center">Button and Input component</h1>
 
 <div align="center">
    Solution for a challenge from  <a href="http://devchallenges.io" target="_blank">Devchallenges.io</a>.
@@ -37,11 +37,12 @@
 ## Overview
 
 ![screenshot](./static/banner.png)
+![screenshot](./static/input_banner.png)
 
 ### Built With
 
 - [SvelteKit](https://kit.svelte.dev/)
-- [SCSS][https://sass-lang.com/]
+- [SCSS](https://sass-lang.com/)
 
 ## Features
 
