@@ -10,7 +10,7 @@
       Demo
     </a>
     <span> | </span>
-    <a href="https://github.com/iamvishal345/devchallenges/tree/main/dev-challenges-btn">
+    <a href="https://github.com/iamvishal345/devchallenges-btn">
       Solution
     </a>
     <span> | </span>
@@ -55,7 +55,7 @@ and [yarn](https://yarnpkg.com/) installed on your computer. From your command l
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/your-user-name/your-project-name
+$ git clone https://github.com/iamvishal345/devchallenges-btn.git
 
 # Install dependencies
 $ yarn
